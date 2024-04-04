@@ -7,6 +7,12 @@ The project has been initialized.
 <br>
 <br>
 
+> # 🚨 전체 Team README는 원본 저장소를 참고해주세요! 🚨
+> [Team README.md](https://github.com/sgdevcamp2022/allin)
+
+<br>
+<br>
+
 ## 인증/인가 서버 소개
 1. 제공 서비스 및 기능
 
